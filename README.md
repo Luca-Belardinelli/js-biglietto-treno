@@ -16,7 +16,7 @@ Il programma dovrà chiedere all’utente il numero di chilometri che vuole perc
   Domanda n 1 - Quanti km dovrà percorrere per arrivare a destinazione
 
   Domanda n 2 - Età dell'utente
-     - SE l'età è > 18
+     - SE l'età è < 18
         - sconto del 20%
 
      - SE l'età è > 65
