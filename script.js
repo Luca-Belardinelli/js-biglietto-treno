@@ -4,7 +4,7 @@
 // DOMANDA N-1 DA FARE ALL'UTENTE
 let km = prompt("indicare i km da percorrere");
 
-// DOMANDA N-1 DA FARE ALL'UTENTE
+// DOMANDA N-2 DA FARE ALL'UTENTE
 let age = prompt("indicare età");
 
 console.log("distanza in km", km , "età", age);
