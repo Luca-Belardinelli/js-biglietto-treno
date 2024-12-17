@@ -28,10 +28,11 @@ else if ( age > 65){
 } 
 else { discount = 0}
 
+// PREZZO FINALE
 
-let fprice = price - discount
+let fprice = price - discount;
 
 console.log("la somma scontata è: €", fprice)
 
-
+console.log("Totale da pagare: € ", fprice.toFixed(2));
 
